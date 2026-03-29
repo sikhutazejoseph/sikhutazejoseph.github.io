@@ -46,17 +46,11 @@ To build a strong career in networking by developing practical skills and contri
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true" alt="GitHub stats" />
-</p>
-
----
+ 
 
 ## 📬 Contact Me
 
-* 🔗 GitHub: https://github.com/yourusername
+* 🔗 GitHub: https://github.com/sikhutazejoseph
 * 📧 Email: [221212779@mycput.ac.za]
 
 ---
