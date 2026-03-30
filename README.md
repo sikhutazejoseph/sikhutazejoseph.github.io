@@ -4,11 +4,14 @@
 
 
 📄 Curriculum Vitae
+
 👤 Personal Information
 
 Name: Sikhutaze Joseph
+
 Email: 221212779@mycput.ac.za
-GitHub: https://github.com/yourusername
+
+GitHub: https://github.com/sikhutazejoseph
 
 
 
