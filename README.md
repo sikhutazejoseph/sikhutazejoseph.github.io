@@ -70,6 +70,17 @@ To build a strong career in networking by developing practical skills and contri
 
 ---
 
+
+### 📄 Curriculum Vitae (CV)
+
+[View My CV](SikhutazeJoseph_221212779_cv.pdf)
+
+### 🎥 Mock Interview Video
+
+[Watch My Mock Interview](https://youtube.com/shorts/TBtgkpgWZFE?feature=share)
+
+
+---
 ## 📬 Contact Me
 
 * 🔗 GitHub: https://github.com/sikhutazejoseph
