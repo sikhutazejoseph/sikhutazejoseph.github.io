@@ -38,6 +38,7 @@ I enjoy understanding how systems connect, solving real-world problems, and cont
 ## 🎓 Education
 
 **High School:** Executive Academy
+
 **Diploma in Information and Communication Technology (ICT):** Cape Peninsula University of Technology (CPUT)
 
 ---
