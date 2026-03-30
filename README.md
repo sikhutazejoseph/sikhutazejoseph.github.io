@@ -3,6 +3,15 @@
 # 👋 Hi, I'm Sikhutaze Joseph
 
 
+📄 Curriculum Vitae
+👤 Personal Information
+
+Name: Sikhutaze Joseph
+Email: 221212779@mycput.ac.za
+GitHub: https://github.com/yourusername
+
+
+
 <p align="center">
   <b>💻 IT Student | 🌐 Networking Enthusiast | 🚀 Future Network Professional</b>
 </p>
@@ -51,10 +60,6 @@ To build a strong career in networking by developing practical skills and contri
 
 
 ## 📁 Portfolio Evidence
-
-### 📄 Curriculum Vitae (CV)
-
-[View My CV](https://raw.githubusercontent.com/sikhutazejoseph/sikhutazejoseph.github.io/main/Sikhutaze%20Joseph%20221212779%20cv%20(1).docx)
 
 ### 🎥 Mock Interview Video
 
