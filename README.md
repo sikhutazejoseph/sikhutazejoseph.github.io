@@ -3,10 +3,6 @@
 # 👋 Hi, I'm Sikhutaze Joseph
 
 
-📄 Curriculum Vitae
-
-👤 Personal Information
-
  
 * 🔗 GitHub: https://github.com/sikhutazejoseph
 * 📧 Email: [221212779@mycput.ac.za](mailto:221212779@mycput.ac.za)
@@ -68,12 +64,7 @@ To build a strong career in networking by developing practical skills and contri
 [Watch My Mock Interview](https://youtube.com/shorts/TBtgkpgWZFE?feature=share)
 
 
----
-## 📬 Contact Me
-
-* 🔗 GitHub: https://github.com/sikhutazejoseph
-* 📧 Email: [221212779@mycput.ac.za](mailto:221212779@mycput.ac.za)
-
+ 
 ---
 
 <p align="center">
