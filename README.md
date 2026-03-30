@@ -70,10 +70,11 @@ To build a strong career in networking by developing practical skills and contri
 
 ---
 
+## 📁 Portfolio Evidence
 
 ### 📄 Curriculum Vitae (CV)
 
-[View My CV](SikhutazeJoseph_221212779_cv.pdf)
+[View My CV](https://raw.githubusercontent.com/sikhutazejoseph/sikhutazejoseph.github.io/main/Sikhutaze%20Joseph%20221212779%20cv%20(1).docx)
 
 ### 🎥 Mock Interview Video
 
