@@ -48,27 +48,6 @@ To build a strong career in networking by developing practical skills and contri
 
 ---
 
-## 💼 Projects
-
-### Project 1: MySQL Database
-
-* **Description:** Designed and implemented a relational database. Created tables, relationships, and constraints to organize and manage data efficiently. Wrote SQL queries to insert, update, delete, and retrieve data.
-* **Skills Used:** Database Management, Problem Solving, SQL
-* **Reflection:** I learned how to structure and manage data effectively. Writing SQL queries strengthened my logical thinking and understanding of relational database systems.
-
-### Project 2: Sanren Network Challenge
-
-* **Description:** Participated in a networking challenge focused on solving real-world network problems. Collaborated with a team to analyze network scenarios and propose solutions.
-* **Skills Used:** Networking, Network Security, Teamwork, Problem Solving
-* **Reflection:** This project improved my practical networking knowledge and teamwork skills. It helped me apply theoretical concepts to realistic network problems.
-
-### Project 3: Network Design & Configuration
-
-* **Description:** Designed and simulated a network topology using Cisco Packet Tracer. Configured routers, switches, and VLANs to enable communication between networks. Practiced network troubleshooting and routing configuration.
-* **Skills Used:** Networking, WAN Technologies, Routing, Troubleshooting
-* **Reflection:** I gained hands-on experience in network setup and configuration, learning how to troubleshoot issues and ensure network communication works as intended.
-
----
 
 ## 📁 Portfolio Evidence
 
