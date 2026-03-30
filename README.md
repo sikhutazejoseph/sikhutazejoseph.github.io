@@ -7,16 +7,15 @@
 
 👤 Personal Information
 
-Name: Sikhutaze Joseph
+ 
+* 🔗 GitHub: https://github.com/sikhutazejoseph
+* 📧 Email: [221212779@mycput.ac.za](mailto:221212779@mycput.ac.za)
 
-Email: 221212779@mycput.ac.za
-
-GitHub: https://github.com/sikhutazejoseph
 
 
 
 <p align="center">
-  <b>💻 IT Student | 🌐 Networking Enthusiast | 🚀 Future Network Professional</b>
+    <b>💻 IT Student | 🌐 Networking Enthusiast | 🚀 Future Network Professional</b>
 </p>
 
 ---
