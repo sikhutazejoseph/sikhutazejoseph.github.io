@@ -33,7 +33,7 @@ I enjoy understanding how systems connect, solving real-world problems, and cont
 
 ---
 
- 💼 Projects
+ 💼 **Projects**
 
  
 Project 1: MySQL Database
