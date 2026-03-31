@@ -33,7 +33,7 @@ I enjoy understanding how systems connect, solving real-world problems, and cont
 
 ---
 
-  💻 PROJECTS
+  💻 **PROJECTS**
   
 MySQL Database
 
@@ -42,11 +42,13 @@ Created tables, relationships, and constraints to manage data efficiently
 Wrote SQL queries to insert, update, delete, and retrieve data
 
 SANREN Network Challenge
+
 Participated in solving real-world networking problems
 Worked in a team to analyse scenarios and propose solutions
 Improved teamwork, communication, and networking skills
 
 Network Design & Configuration
+
 Designed and simulated a network using Cisco Packet Tracer
 Configured routers, switches, and VLANs
 Practiced troubleshooting and routing configuration
