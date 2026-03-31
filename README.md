@@ -33,22 +33,29 @@ I enjoy understanding how systems connect, solving real-world problems, and cont
 
 ---
 
-💻 Projects
+ 💼 Projects
 
-🔹 MySQL Database
-Designed and implemented a relational database
-Created tables, relationships, and constraints to manage data efficiently
-Wrote SQL queries to insert, update, delete, and retrieve data
+ 
+Project 1: MySQL Database
+Description: Designed and implemented a relational database. Created tables, relationships, and constraints to organize and manage data efficiently. Wrote SQL queries to insert, update, delete, and retrieve data.
 
-🔹 SANREN Network Challenge
-Participated in solving real-world networking problems
-Worked in a team to analyse scenarios and propose solutions
-Improved teamwork, communication, and networking skills
+Skills Used: Database Management, Problem Solving, SQL
 
-🔹 Network Design & Configuration
-Designed and simulated a network using Cisco Packet Tracer
-Configured routers, switches, and VLANs
-Practiced troubleshooting and routing configuration
+Reflection: I learned how to structure and manage data effectively. Writing SQL queries strengthened my logical thinking and understanding of relational database systems.
+
+Project 2: Sanren Network Challenge
+Description: Participated in a networking challenge focused on solving real-world network problems. Collaborated with a team to analyze network scenarios and propose solutions.
+
+Skills Used: Networking, Network Security, Teamwork, Problem Solving
+
+Reflection: This project improved my practical networking knowledge and teamwork skills. It helped me apply theoretical concepts to realistic network problems.
+
+Project 3: Network Design & Configuration
+Description: Designed and simulated a network topology using Cisco Packet Tracer. Configured routers, switches, and VLANs to enable communication between networks. Practiced network troubleshooting and routing configuration.
+
+Skills Used: Networking, WAN Technologies, Routing, Troubleshooting
+
+Reflection: I gained hands-on experience in network setup and configuration, learning how to troubleshoot issues and ensure network communication works as intended.
 
 
 ---
