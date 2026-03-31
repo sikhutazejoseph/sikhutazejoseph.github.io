@@ -36,6 +36,7 @@ I enjoy understanding how systems connect, solving real-world problems, and cont
   💻 PROJECTS
   
 MySQL Database
+
 Designed and implemented a relational database
 Created tables, relationships, and constraints to manage data efficiently
 Wrote SQL queries to insert, update, delete, and retrieve data
