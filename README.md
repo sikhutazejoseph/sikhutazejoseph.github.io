@@ -4,7 +4,7 @@
 
 📧 [221212779@mycput.ac.za](mailto:221212779@mycput.ac.za)
 📍 Cape Town, Western Cape, South Africa
-💻 Diploma in Information and Communication Technology
+💻 Diploma in ICT Communication Networks 
 
 ---
 
