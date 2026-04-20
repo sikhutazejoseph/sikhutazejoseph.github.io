@@ -105,8 +105,5 @@ This portfolio has been published online using GitHub Pages.
 
 ---
 
-# 📬 Contact
-
-📧 [221212779@mycput.ac.za](mailto:221212779@mycput.ac.za)
-🔗 https://github.com/sikhutazejoseph
+ 
 
