@@ -1,4 +1,4 @@
-# 🌐 Work Readiness Digital Portfolio
+# 🌐 Digital Portfolio
 
 # 👤 Sikhutaze Joseph
 
