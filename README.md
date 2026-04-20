@@ -12,7 +12,7 @@
 
 I created and use a GitHub account with my CPUT student email address for academic learning, portfolio development, and professional growth.
 
-**GitHub Profile:** https://github.com/yourusername
+**GitHub Profile:** https://github.com/sikhutazejoseph
 
 ---
 
@@ -89,7 +89,7 @@ National Senior Certificate
 
 This portfolio has been published online using GitHub Pages.
 
-**Portfolio Link:** https://yourusername.github.io
+**Portfolio Link:** https://sikhutazejoseph.github.io
 
 ---
 
@@ -108,5 +108,5 @@ This portfolio has been published online using GitHub Pages.
 # 📬 Contact
 
 📧 [221212779@mycput.ac.za](mailto:221212779@mycput.ac.za)
-🔗 https://github.com/yourusername
+🔗 https://github.com/sikhutazejoseph
 
