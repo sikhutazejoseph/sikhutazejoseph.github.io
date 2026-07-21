@@ -1,82 +1,55 @@
-# 🌐 Digital Portfolio
 
-## 👤 Sikhutaze Joseph
+# Sikhutaze Joseph - Digital Portfolio
 
-| **Student Number** | 221212779 |
-|--------------------|-----------|
-| **Email** | 221212779@mycput.ac.za |
-| **Location** | Cape Town, Western Cape, South Africa |
-| **Qualification** | Diploma in ICT Communication Networks |
-
----
-
-## 🎓 GitHub Student Account Evidence
-
-I created a GitHub account using my CPUT student email address (`221212779@mycput.ac.za`). The IT Department has a partnership with GitHub Education which provides CPUT students with access to free developer tools.
-
-**GitHub Profile:** [https://github.com/sikhutazejoseph](https://github.com/sikhutazejoseph)
-
-| Evidence | Status |
-|----------|--------|
-| Account created with student email | ✅ |
-| GitHub Student Developer Pack | ✅ |
-| Repository created for portfolio | ✅ |
-| Active contributions | ✅ |
+**Student Number:** 221212779  
+**Module:** PRP370S - Project Presentation 3  
+**Qualification:** Diploma in ICT Communication Networks  
+**Institution:** Cape Peninsula University of Technology (CPUT)  
+**Year:** 2026
 
 ---
 
-## 📄 Curriculum Vitae
+## Curriculum Vitae
 
 ### Professional Summary
-> I am an ICT student with a strong interest in **networking**, **technical support**, and **problem solving**. I am eager to apply my skills in a professional environment and continue growing in the technology industry.
 
-### Career Objective
-> To gain employment where I can contribute my technical skills, develop workplace experience, and grow within the IT field.
+ICT in Communication Networks student with practical experience in configuring, maintaining and troubleshooting network systems. Skilled in TCP/IP, routing, switching, VLANs, DHCP and basic network security. Seeking an opportunity in any network related IT role to apply technical skills, gain hands-on industry exposure and contribute to reliable and secure communication networks.
 
----
+### Contact
 
-### Education
-
-| Institution | Qualification | Year |
-|-------------|---------------|------|
-| **Cape Peninsula University of Technology** | Diploma in ICT (Communication Networks) | Current |
-| **Executive Academy** | National Senior Certificate | Completed |
-
----
+- Phone: 0633284592
+- Email: 221212779@mycput.ac.za
+- Address: Cape Town, Western Cape, South Africa
 
 ### Technical Skills
 
-| Category | Skills |
-|----------|--------|
-| **Networking** | Network Configuration, Network Security, Cisco Packet Tracer |
-| **IT Support** | Troubleshooting, Hardware Basics, System Maintenance |
-| **Digital Tools** | GitHub, Markdown, Microsoft Office Suite |
+- LAN/WAN configuration, routing & switching
+- VLANs and IP addressing
+- Network security and proactive monitoring
+- Hardware/software installation and maintenance (Windows & Linux)
+- Network labs and troubleshooting exercises (CPUT)
+- GitHub and Markdown
+- Problem solving and communication
+
+### Education
+
+**Matric**  
+Executive Academy  
+Passed with National Senior Certificate
+
+**Diploma in ICT Communication Networks (In Progress)**  
+Cape Peninsula University of Technology (CPUT), Cape Town  
+Expected completion: 2026
 
 ---
 
-### Soft Skills
+### References
 
-| Category | Skills |
-|----------|--------|
-| **Personal** | Communication, Teamwork, Problem Solving |
-| **Professional** | Time Management, Adaptability, Professionalism |
-
----
-
-## 📝 Reflection 1: Coding in Markdown (STAR Method)
-
-| STAR Element | My Response |
-|--------------|-------------|
-| **Situation** | I was required to create a professional online portfolio as part of my Work Readiness Training. The portfolio needed to include my CV and demonstrate my ability to use digital tools. Markdown is a lightweight markup language for creating formatted text using a plain-text editor. |
-| **Task** | My task was to code my entire CV and portfolio using **Markdown language** without using visual editors like Microsoft Word. I needed to use GitHub Flavoured Markdown (GFM) which is easy-to-read and easy-to-write. |
-| **Action** | I learned Markdown syntax through online tutorials and GitHub documentation. I used headings (`#`, `##`), tables, bullet points, bold/italic text, blockquotes (`>`), horizontal rules (`---`), and clickable links. I tested my Markdown on GitHub and GitHub Pages to ensure it rendered correctly. |
-| **Result** | I successfully created a clean, professional, and fully functional digital CV that is version-controlled on GitHub, accessible online 24/7 via GitHub Pages, and can be easily shared with employers via a simple URL. |
+Available upon request.
 
 ---
 
 ## 🎥 Mock Interview Video
-
-### Watch My Mock Interview Practice
 
 <iframe 
   width="560" 
@@ -88,62 +61,68 @@ I created a GitHub account using my CPUT student email address (`221212779@mycpu
   allowfullscreen>
 </iframe>
 
+*Watch my mock interview practice session*
+
 **Direct Link:** [Watch on YouTube](https://youtu.be/TBtgkpgWZFE)
 
 ---
 
-## 📝 Reflection 2: Mock Interview Video Experience (STAR Method)
+## 📝 Reflections
 
-| STAR Element | My Response |
-|--------------|-------------|
-| **Situation** | As part of my Work Readiness Training, I completed a mock interview to prepare for real job interviews. The interview was recorded so I could review my performance. Videos of presentations are important artefacts in e-portfolios. |
-| **Task** | My task was to present myself **professionally**, answer common interview questions **confidently**, and demonstrate **effective communication skills** during the recorded session. |
-| **Action** | I researched common interview questions for ICT roles, prepared STAR-based answers, practiced my responses aloud, recorded multiple takes, reviewed each one critically, analyzed my body language and eye contact, selected the best take, and embedded the video using an HTML iframe. |
-| **Result** | I gained increased confidence, better eye contact, more concise answers, reduced filler words, identified areas for improvement, and felt 70% more prepared for actual job interviews. |
+### Reflection 1: Coding in Markdown (STAR Method)
 
----
+**Situation**  
+I was required to create a digital portfolio using GitHub and Markdown language for the PRP370S module.
 
-## 🌍 Published on GitHub Pages
+**Task**  
+I needed to design and develop a complete digital portfolio, including a CV and reflections, using Markdown syntax.
 
-### Live Portfolio Link
+**Action**  
+I researched GitHub Flavoured Markdown (GFM) documentation, practiced with headings, lists, tables, and links, and structured my portfolio content clearly. I used tables for my education and skills sections to present information neatly.
 
-🔗 [https://sikhutazejoseph.github.io](https://sikhutazejoseph.github.io)
-
-### Deployment Process
-
-| Step | Action |
-|------|--------|
-| 1 | Created repository: `sikhutazejoseph.github.io` |
-| 2 | Added `index.md` as the main portfolio file |
-| 3 | Went to Settings → Pages in the repository |
-| 4 | Selected Branch: `main` and Folder: `/ (root)` |
-| 5 | Clicked Save and waited for deployment |
-| 6 | Accessed the live site at the URL above |
+**Result**  
+I successfully created a professional digital portfolio and gained practical skills in Markdown. My CV is now version-controlled and accessible online.
 
 ---
 
-## 📝 Reflection 3: Using GitHub Pages (STAR Method)
+### Reflection 2: Mock Interview Video (STAR Method)
 
-| STAR Element | My Response |
-|--------------|-------------|
-| **Situation** | I needed to publish my Markdown portfolio online so that it could be accessed by lecturers and potential employers. GitHub Pages allows users to showcase their portfolios online. |
-| **Task** | My task was to deploy my GitHub repository as a **live website** using GitHub Pages—a free hosting service provided by GitHub. |
-| **Action** | I named my repository `sikhutazejoseph.github.io`, committed and pushed all files to the `main` branch, navigated to Settings → Pages, selected `main` as the source branch and `/ (root)` as the folder, clicked Save, waited 2-3 minutes, and tested the live link on different devices. |
-| **Result** | My portfolio is now publicly accessible 24/7, completely free to host, updates instantly when I push changes, and can be shared with employers via a professional URL. I learned how to turn Markdown into a website without coding HTML/CSS. |
+**Situation**  
+As part of work readiness training, I was required to record a mock interview video.
+
+**Task**  
+I needed to answer common interview questions confidently and demonstrate professional communication skills.
+
+**Action**  
+I researched common ICT interview questions, prepared STAR-based answers, practiced my responses, recorded multiple takes, and selected the best one to embed in my portfolio.
+
+**Result**  
+I created a professional interview video, improved my confidence, reduced filler words, and added a valuable visual element to my portfolio.
+
+---
+
+### Reflection 3: Using GitHub Pages (STAR Method)
+
+**Situation**  
+I needed to publish my Markdown portfolio online so that examiners could access it.
+
+**Task**  
+I had to enable GitHub Pages, configure deployment settings, and ensure the portfolio was publicly accessible.
+
+**Action**  
+I went to Settings → Pages, selected the `main` branch, chose `/ (root)` as the folder, clicked Save, and waited 2-3 minutes for deployment.
+
+**Result**  
+I successfully published my portfolio online at [https://sikhutazejoseph.github.io](https://sikhutazejoseph.github.io) and learned how to host websites using GitHub Pages for free.
 
 ---
 
-## 📊 Summary of Skills
+## Contact
 
-| Type | Skills Demonstrated |
-|------|---------------------|
-| **Technical** | Markdown, Git, GitHub, GitHub Pages, HTML Embed |
-| **Professional** | Interview Skills, Self-Reflection, Personal Branding |
-| **Academic** | Research, Documentation, Presentation Skills |
+- GitHub: [github.com/sikhutazejoseph](https://github.com/sikhutazejoseph)
+- Email: 221212779@mycput.ac.za
+- Portfolio: [sikhutazejoseph.github.io](https://sikhutazejoseph.github.io)
 
 ---
+
  
-
-*Last updated: July 2026*
-
-© 2026 Sikhutaze Joseph | Work Readiness Portfolio
