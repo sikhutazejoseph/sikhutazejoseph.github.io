@@ -1,6 +1,6 @@
-# Digital Portfolio
+# Digital Portfolio #
 
-**Student Number:** 221212779  
+**Student Number:** 221212779 
 **Module:** PRP370S - Project Presentation 3  
 **Qualification:** Diploma in ICT Communication Networks  
 **Institution:** Cape Peninsula University of Technology (CPUT)  
