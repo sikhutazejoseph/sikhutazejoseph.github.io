@@ -142,20 +142,7 @@ I created a GitHub account using my CPUT student email address (`221212779@mycpu
 | **Academic** | Research, Documentation, Presentation Skills |
 
 ---
-
-## ✅ Portfolio Checklist
-
-| Requirement | Status |
-|-------------|--------|
-| GitHub Student Account (`221212779@mycput.ac.za`) | ✅ |
-| CV Coded in Markdown | ✅ |
-| Reflection 1: Markdown (STAR Method) | ✅ |
-| Mock Interview Video Embedded | ✅ |
-| Reflection 2: Mock Interview (STAR Method) | ✅ |
-| Published on GitHub Pages | ✅ |
-| Reflection 3: GitHub Pages (STAR Method) | ✅ |
-
----
+ 
 
 *Last updated: July 2026*
 
