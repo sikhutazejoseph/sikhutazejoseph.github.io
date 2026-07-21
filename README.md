@@ -1,5 +1,5 @@
 
-# Sikhutaze Joseph - Digital Portfolio
+# Digital Portfolio
 
 **Student Number:** 221212779  
 **Module:** PRP370S - Project Presentation 3  
@@ -45,7 +45,21 @@ Expected completion: 2026
 
 ### References
 
-Available upon request.
+**Martin Mndioma**  
+Lecturer  
+Cape Peninsula University of Technology  
+Phone: (021) 460-3675  
+Email: mandiomam@cput.ac.za
+
+---
+
+**Bongiwe Ntwasa**  
+Peer/Colleague  
+Cape Peninsula University of Technology  
+Phone: 073-847-7582  
+Email: 221573183@mycput.ac.za
+
+
 
 ---
 
