@@ -201,9 +201,14 @@ I successfully published my portfolio online at [https://sikhutazejoseph.github.
 *   **Reflection:** Creating wireframes taught me the importance of empathy in design. We realized many residents use mobile phones, so we ensured our wireframes were mobile-first. This caught design flaws before we coded.
 
  ### 3. Brand Guide
-![Brand Guide](https://raw.githubusercontent.com/sikhutazejoseph/eKhaya-connect/refs/heads/main/eKhaya_Connect_Brand_Guide.pptx)
-*   **Reflection:** The brand guide was a crucial learning step. It taught me that a business is more than just its product; it is an identity. We chose colors and fonts that resonate with the Khayelitsha community—aiming for a look that feels modern, trustworthy, and approachable.
+![Brand Guide 1](brand-guide1.png)
+![Brand Guide 2](brand-guide2.png)
+![Brand Guide 3](brand-guide3.png)
+![Brand Guide 4](brand-guide4.png)
+![Brand Guide 5](brand-guide5.png)
 
+*   **Reflection:** The brand guide was a crucial learning step. It taught me that a business is more than just its product; it is an identity. We chose colors and fonts that resonate with the Khayelitsha community—aiming for a look that feels modern, trustworthy, and approachable.
+ 
 ### 4. Business Model Canvas
 ![Business Model Canvas](Business%20canva%20mode.png)
 *   **Reflection:** The Business Model Canvas was the "big picture" moment for our team. It forced me to confront the financial realities of our WISP idea. By mapping out our costs against our revenue, I understood the importance of scale and customer retention.
