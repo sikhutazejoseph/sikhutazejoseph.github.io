@@ -151,10 +151,11 @@ I successfully published my portfolio online at [https://sikhutazejoseph.github.
 
 ## 🌐 Project Overview
 **The Problem:** Khayelitsha faces a severe digital divide due to major telecom companies under-investing in the area. Residents and small business owners struggle daily with a lack of affordable, reliable home internet.
+
 **Our Solution:** *Ekhaya Connect* is a Wireless Internet Service Provider (WISP) offering uncapped 10 Mbps fixed wireless internet for approximately R399/month. By leveraging a shared high-speed fibre link and local wireless dishes, we provide affordable access without needing massive infrastructure rollouts.
 
 ## 👥 The Agile Team
-*   **Sikhutaze Joseph**
+*   Sikhutaze Joseph
 *   Bongiwe Ntwasa
 *   Elam Mthwane
 *   Phumelela Nzewu
@@ -170,21 +171,23 @@ I successfully published my portfolio online at [https://sikhutazejoseph.github.
 
 ### 2. User Stories & Tasks
 **Evidence:** We broke down our WISP features into user-centric stories (e.g., "As a resident, I want reliable internet...") and split them into actionable tasks on our Trello board.
-**Reflection:** Writing user stories forced me to shift my mindset from "what software do we build" to "what does the customer need." **My role** was translating our research into tasks on Trello. It taught me that breaking big goals into small, clear tasks makes the massive goal of building a WISP feel achievable.
+**Reflection:** Writing user stories forced me to shift my mindset from "what software do we build" to "what does the customer need."
+**My role** was translating our research into tasks on Trello. It taught me that breaking big goals into small, clear tasks makes the massive goal of building a WISP feel achievable.
 
 ### 3. Product & Sprint Backlogs
 **Evidence:** We prioritized tasks (High: Fibre Setup; Low: Website Dev) and executed them across 4 Sprints using a Kanban board. (See Trello screenshot below).
-**Reflection:** This was a lesson in scope management. **My role** required me to move my assigned tasks across the board and add detailed checklists. I learned that it's better to fully complete a few tasks than to start everything and finish nothing. Agile is about adapting to change, not just following a rigid list.
+**Reflection:** This was a lesson in scope management.
+**My role** required me to move my assigned tasks across the board and add detailed checklists. I learned that it's better to fully complete a few tasks than to start everything and finish nothing. Agile is about adapting to change, not just following a rigid list.
 
 ### 4. Agile Logbook & Daily Standups
 **Evidence:** We tracked our daily standups and bottlenecks (like Trello unfamiliarity) from July 21st to July 24th. *(Word documents with full logs are available in the GitHub repository).*
-**Reflection:** The logbook was the most eye-opening part. **My role** involved updating the log and helping teammates overcome their Trello struggles. Reflecting daily taught me that communication is the most critical part of Agile. By honestly tracking our blockers, we solved them as a team and delivered a confident presentation.
+**Reflection:** The logbook was the most eye-opening part.
+**My role** involved updating the log and helping teammates overcome their Trello struggles. Reflecting daily taught me that communication is the most critical part of Agile. By honestly tracking our blockers, we solved them as a team and delivered a confident presentation.
 
 ---
 
 ## 🎨 Project Deliverables
 
- ## 🎨 Project Deliverables
 
 ### 1. The Live Website
 ![Website Homepage](Website3.png)
@@ -217,6 +220,5 @@ I successfully published my portfolio online at [https://sikhutazejoseph.github.
 ![Trello Board](https://raw.githubusercontent.com/sikhutazejoseph/eKhaya-connect/main/Trello.png)
 
 ### Agile Logbook (Daily Standups)
-*(Full Word documents are uploaded to the eKhaya-connect repository)*
 ![Logbook Part 1](https://raw.githubusercontent.com/sikhutazejoseph/eKhaya-connect/main/agile-logbook-1.png)
  
