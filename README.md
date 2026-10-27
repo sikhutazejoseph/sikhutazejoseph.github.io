@@ -144,18 +144,17 @@ I successfully published my portfolio online at [https://sikhutazejoseph.github.
 <hr>
 <br>
 
-# 🚀 WIL Agile Project Portfolio (PRP371S)
+ # 🚀 WIL Agile Project Portfolio (PRP371S)
 
 **Project Name:** Ekhaya Connect - Affordable WISP
 **Module:** PRP371S - Entrepreneurial WIL Project
 
 ## 🌐 Project Overview
 **The Problem:** Khayelitsha faces a severe digital divide due to major telecom companies under-investing in the area. Residents and small business owners struggle daily with a lack of affordable, reliable home internet.
-
-**Our Solution:** *Ekhaya Connect* is a Wireless Internet Service Provider (WISP) offering uncapped 10 Mbps fixed wireless internet for approximately R399/month. By leveraging a shared high-speed fibre link and local wireless dishes, we provide affordable access without needing massive infrastructure rollouts.
+**Our Solution:** *Ekhaya Connect* is a Wireless Internet Service Provider (WISP) offering uncapped 10 Mbps fixed wireless internet for approximately R399/month.
 
 ## 👥 The Agile Team
-*   Sikhutaze Joseph
+*   **Sikhutaze Joseph**
 *   Bongiwe Ntwasa
 *   Elam Mthwane
 *   Phumelela Nzewu
@@ -163,70 +162,30 @@ I successfully published my portfolio online at [https://sikhutazejoseph.github.
 
 ---
 
-## 📂 Agile Artefacts & Reflections
-
 ### 1. Agile Team Charter
-**Evidence:** We defined our shared vision, scope, and working agreements (like daily standups via Trello) to prevent friction. We also validated our idea by interviewing 17 households (82% were willing to pay).
-**Reflection:** Creating the charter taught me that a project isn't just about the final product; it's about setting boundaries. **My role** involved primary research and helping draft our working agreements. I learned that interviewing real people grounds the project in reality and proves the community actually needs our solution.
+**Evidence:** We defined our shared vision, scope, and working agreements. We also validated our idea by interviewing 17 households (82% were willing to pay).
+**Reflection:** Honestly, before doing the charter, I thought it was just unnecessary paperwork. But sitting down and agreeing on our rules (like using Trello and raising blockers immediately) actually saved us a lot of arguments later. My part was helping with the community interviews. Talking to those 17 households in Khayelitsha showed me that our idea wasn't just a school project—people actually need this.
 
-### 2. User Stories & Tasks
+### 2. User Stories and Tasks
 **Evidence:** We broke down our WISP features into user-centric stories (e.g., "As a resident, I want reliable internet...") and split them into actionable tasks on our Trello board.
-**Reflection:** Writing user stories forced me to shift my mindset from "what software do we build" to "what does the customer need."
-**My role** was translating our research into tasks on Trello. It taught me that breaking big goals into small, clear tasks makes the massive goal of building a WISP feel achievable.
+**Reflection:** Writing user stories was surprisingly hard at first. I kept thinking like a developer instead of a customer. Once I got the hang of it, it made things way easier. My role was taking our research and turning it into tasks on Trello. Seeing the huge goal of "build a WISP" broken into small, doable tasks made the whole thing feel way less overwhelming.
 
-### 3. Product & Sprint Backlogs
-**Evidence:** We prioritized tasks (High: Fibre Setup; Low: Website Dev) and executed them across 4 Sprints using a Kanban board. (See Trello screenshot below).
-**Reflection:** This was a lesson in scope management.
-**My role** required me to move my assigned tasks across the board and add detailed checklists. I learned that it's better to fully complete a few tasks than to start everything and finish nothing. Agile is about adapting to change, not just following a rigid list.
-
-### 4. Agile Logbook & Daily Standups
-**Evidence:** We tracked our daily standups and bottlenecks (like Trello unfamiliarity) from July 21st to July 24th. *(Word documents with full logs are available in the GitHub repository).*
-**Reflection:** The logbook was the most eye-opening part.
-**My role** involved updating the log and helping teammates overcome their Trello struggles. Reflecting daily taught me that communication is the most critical part of Agile. By honestly tracking our blockers, we solved them as a team and delivered a confident presentation.
-
----
-
-## 🎨 Project Deliverables
-
-
-### 1. The Live Website
-![Website Homepage](Website3.png)
-![Website Coverage](Website1.png)
-![Website Pricing](websites2.png)
-
-*   **Reflection:** Building the live website shifted our project from a business plan into a tangible reality. I learned how to translate user stories into a real digital experience. It taught me that launching a Minimum Viable Product (MVP) is better than waiting for perfection.
-
-### 2. UI/UX Wireframes
-![Wireframes Screenshot](wireframes.png)
-*   **Reflection:** Creating wireframes taught me the importance of empathy in design. We realized many residents use mobile phones, so we ensured our wireframes were mobile-first. This caught design flaws before we coded.
-
- ### 3. Brand guide
-
-![Brand Guide 1](brand-guide1.png)
-![Brand Guide 2](brand-guide2.png)
-![Brand Guide 3](brand-guide3.png)
-![Brand Guide 4](brand-guide4.png)
-![Brand Guide 5](brand-guide5.png)
-
-*   **Reflection:** The brand guide was a crucial learning step. It taught me that a business is more than just its product; it is an identity. We chose colors and fonts that resonate with the Khayelitsha community—aiming for a look that feels modern, trustworthy, and approachable.
- 
-### 4. Business Model Canvas
-![Business Model Canvas](Business%20canva%20mode.png)
-*   **Reflection:** The Business Model Canvas was the "big picture" moment for our team. It forced me to confront the financial realities of our WISP idea. By mapping out our costs against our revenue, I understood the importance of scale and customer retention.
-
-### 5. Solution Architecture
-![Solution Architecture](https://raw.githubusercontent.com/sikhutazejoseph/eKhaya-connect/main/solution-architecture.jpeg)
-*   **Reflection:** Designing the solution architecture was a critical step in proving the technical feasibility of Ekhaya Connect. It shifted my perspective from just seeing the "business idea" to understanding the complex engine behind it. I learned how a Wireless Internet Service Provider (WISP) actually functions—from the payment gateway and RADIUS provisioning, to the NOC monitoring and field agent scheduling. Mapping out the security and deployment infrastructure (like cloud hosting and CI/CD pipelines) taught me that a successful WISP requires highly coordinated software orchestration to deliver a seamless, uncapped experience to the community.
+### 3. Product Backlog & Sprint Backlog
+**Evidence:** We prioritized tasks on our Trello board (see screenshot below) and executed them across 4 Sprints. 
+**Reflection:** This taught me a harsh lesson in time management. We had so many ideas, but we had to be realistic about what we could actually finish. My role was keeping my assigned cards updated and adding descriptions so the team knew what I was doing. I realized it's better to completely finish a few tasks than to have ten tasks stuck in "In Progress."
 
 ---
 
 ## 📸 Visual Evidence
 
-### Trello Board (Product Backlog & Sprints)
-![Trello Board](https://raw.githubusercontent.com/sikhutazejoseph/eKhaya-connect/main/Trello.png)
-**Reflection:** Using Trello taught me the practical side of Agile. I learned how to manage a Kanban board by moving tasks from the Product Backlog into Sprints. **My role** required me to update my assigned cards and communicate blockers. It showed me that having a visual board keeps the whole team accountable and makes it easy to see exactly what work is left to be done.
+### Trello Board (Product & Sprint Backlogs)
+![Trello Board](Trello.png)
 
- ### 4. Agile Logbook & Daily Standups
+**Reflection on Trello Evidence:** Using Trello was a bit of an adjustment for our team. At first, we weren't using it properly, but it became our main workspace. My role was keeping my specific cards updated and moving them across the board. It was actually really satisfying seeing the "Completed" column fill up. It showed me how important visual tracking is so the whole team knows exactly where we stand.
+
+### 4. Agile Logbook
+**Evidence:** We tracked our daily standups and bottlenecks from July 21st onwards (see screenshots below).
+**Reflection:** Writing these standups every day felt a bit tedious, but looking back, it was the best thing we did. My role was updating the log and helping my teammates who were struggling with Trello at first. It taught me that Agile is basically just good communication. When we admitted our blockers in the logbook, we could actually fix them together instead of stressing alone.
 
 ![Logbook 1](agile-logbook-1.png)
 ![Logbook 2](agile-logbook-2.png)
@@ -235,5 +194,30 @@ I successfully published my portfolio online at [https://sikhutazejoseph.github.
 ![Logbook 5](logbook5.png)
 ![Logbook 6](logbook6.png)
 
-*   **Reflection:** The logbook was the most eye-opening part. **My role** involved updating the log and helping teammates overcome their Trello struggles. Reflecting daily taught me that communication is the most critical part of Agile. By honestly tracking our blockers, we solved them as a team and delivered a confident presentation.
+**Reflection on Logbook Evidence:** Looking at these screenshots now, I can see how we evolved. We started off a bit confused (the first log shows we were unsure about Trello), but by the end, we were confident and ready to present. Keeping this log held us accountable and proved to me that reflection isn't just looking back—it's actually how you improve as a team.
+
+---
+
+## 🎨 Project Deliverables 
+
+### 1. The Live Website
+![Website Homepage](Website3.png)
+![Website Coverage](Website1.png)
+![Website Pricing](websites2.png)
+
+### 2. UI/UX Wireframes
+![Wireframes Screenshot](wireframes.png)
+
+### 3. Business Model Canvas
+![Business Model Canvas Screenshot](Business%20canva%20mode.png)
+
+### 4. Solution Architecture
+![Solution Architecture](https://raw.githubusercontent.com/sikhutazejoseph/eKhaya-connect/main/solution-architecture.jpeg)
+
+### 5. Brand Guide
+![Brand Guide 1](brand-guide1.png)
+![Brand Guide 2](brand-guide2.png)
+![Brand Guide 3](brand-guide3.png)
+![Brand Guide 4](brand-guide4.png)
+![Brand Guide 5](brand-guide5.png)
  
