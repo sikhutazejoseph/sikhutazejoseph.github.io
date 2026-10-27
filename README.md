@@ -197,17 +197,17 @@ I successfully published my portfolio online at [https://sikhutazejoseph.github.
 ![Wireframes Screenshot](wireframes.png)
 *   **Reflection:** Creating wireframes taught me the importance of empathy in design. We realized many residents use mobile phones, so we ensured our wireframes were mobile-first. This caught design flaws before we coded.
 
-### 3. Business Model Canvas
-![Business Model Canvas Screenshot](Business%20canva%20mode.png)
-*   **Reflection:** This forced me to confront the financial realities of our WISP idea. Mapping our costs against revenue made me understand the importance of scale and customer retention.
+ ### 3. Brand Guide
+![Brand Guide](https://raw.githubusercontent.com/sikhutazejoseph/eKhaya-connect/refs/heads/main/eKhaya_Connect_Brand_Guide.pptx)
+*   **Reflection:** The brand guide was a crucial learning step. It taught me that a business is more than just its product; it is an identity. We chose colors and fonts that resonate with the Khayelitsha community—aiming for a look that feels modern, trustworthy, and approachable.
 
-### 4. Solution Architecture
-![Ekhaya Connect Solution Architecture](https://raw.githubusercontent.com/sikhutazejoseph/eKhaya-connect/main/solution-architecture.jpeg)
-*   **Reflection:** Designing the architecture proved the technical feasibility of our idea. I learned how a WISP functions—from the payment gateway to RADIUS provisioning and NOC monitoring. It showed me that a successful WISP requires highly coordinated software orchestration.
+### 4. Business Model Canvas
+![Business Model Canvas](Business%20canva%20mode.png)
+*   **Reflection:** The Business Model Canvas was the "big picture" moment for our team. It forced me to confront the financial realities of our WISP idea. By mapping out our costs against our revenue, I understood the importance of scale and customer retention.
 
-### 5. Brand Guide
-*   **Link:** [📥 Click here to download/view the Ekhaya Connect Brand Guide](https://raw.githubusercontent.com/sikhutazejoseph/eKhaya-connect/refs/heads/main/eKhaya_Connect_Brand_Guide.pptx)
-*   **Reflection:** The brand guide taught me that a business is more than its product; it's an identity. We chose colors and fonts that resonate with Khayelitsha—aiming for a look that feels modern and trustworthy.
+### 5. Solution Architecture
+![Solution Architecture](https://raw.githubusercontent.com/sikhutazejoseph/eKhaya-connect/main/solution-architecture.jpeg)
+*   **Reflection:** Designing the solution architecture was a critical step in proving the technical feasibility of Ekhaya Connect. It shifted my perspective from just seeing the "business idea" to understanding the complex engine behind it. I learned how a Wireless Internet Service Provider (WISP) actually functions—from the payment gateway and RADIUS provisioning, to the NOC monitoring and field agent scheduling. Mapping out the security and deployment infrastructure (like cloud hosting and CI/CD pipelines) taught me that a successful WISP requires highly coordinated software orchestration to deliver a seamless, uncapped experience to the community.
 
 ---
 
