@@ -218,15 +218,14 @@ I successfully published my portfolio online at [https://sikhutazejoseph.github.
 
 ### Trello Board (Product Backlog & Sprints)
 ![Trello Board](https://raw.githubusercontent.com/sikhutazejoseph/eKhaya-connect/main/Trello.png)
+**Reflection:** Using Trello taught me the practical side of Agile. I learned how to manage a Kanban board by moving tasks from the Product Backlog into Sprints. **My role** required me to update my assigned cards and communicate blockers. It showed me that having a visual board keeps the whole team accountable and makes it easy to see exactly what work is left to be done.
 
 ### Agile Logbook (Daily Standups)
+![Logbook Part 1](https://raw.githubusercontent.com/sikhutazejoseph/eKhaya-connect/main/agile-logbook-1.png)
 ![Logbook 3](Logbook3.png)
-
 ![Logbook 4](logbook4.png)
-
 ![Logbook 5](logbook5.png)
-
 ![Logbook 6](logbook6.png)
 
-![Logbook Part 1](https://raw.githubusercontent.com/sikhutazejoseph/eKhaya-connect/main/agile-logbook-1.png)
+*   **Reflection:** The logbook was the most eye-opening part. **My role** involved updating the log and helping teammates overcome their Trello struggles. Reflecting daily taught me that communication is the most critical part of Agile. By honestly tracking our blockers, we solved them as a team and delivered a confident presentation.
  
