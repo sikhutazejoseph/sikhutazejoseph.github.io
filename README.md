@@ -147,6 +147,7 @@ I successfully published my portfolio online at [https://sikhutazejoseph.github.
  # 🚀 WIL Agile Project Portfolio (PRP371S)
 
 **Project Name:** Ekhaya Connect - Affordable WISP
+
 **Module:** PRP371S - Entrepreneurial WIL Project
 
 ## 🌐 Project Overview
