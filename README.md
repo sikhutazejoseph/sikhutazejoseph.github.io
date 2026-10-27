@@ -220,20 +220,13 @@ I successfully published my portfolio online at [https://sikhutazejoseph.github.
 ![Trello Board](https://raw.githubusercontent.com/sikhutazejoseph/eKhaya-connect/main/Trello.png)
 
 ### Agile Logbook (Daily Standups)
-**Evidence:** We tracked our daily standups and bottlenecks (like Trello unfamiliarity) from July 21st onwards. 
-
-**Logbook Part 3:**
 ![Logbook 3](Logbook3.png)
 
-**Logbook Part 4:**
 ![Logbook 4](logbook4.png)
 
-**Logbook Part 5:**
 ![Logbook 5](logbook5.png)
 
-**Logbook Part 6:**
 ![Logbook 6](logbook6.png)
 
-*   **Reflection:** The logbook was the most eye-opening part. **My role** involved updating the log and helping teammates overcome their Trello struggles. Reflecting daily taught me that communication is the most critical part of Agile. By honestly tracking our blockers, we solved them as a team and delivered a confident presentation.
 ![Logbook Part 1](https://raw.githubusercontent.com/sikhutazejoseph/eKhaya-connect/main/agile-logbook-1.png)
  
