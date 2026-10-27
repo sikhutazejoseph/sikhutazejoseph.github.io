@@ -200,7 +200,7 @@ I successfully published my portfolio online at [https://sikhutazejoseph.github.
 ![Wireframes Screenshot](wireframes.png)
 *   **Reflection:** Creating wireframes taught me the importance of empathy in design. We realized many residents use mobile phones, so we ensured our wireframes were mobile-first. This caught design flaws before we coded.
 
- <h3>3. Brand Guide</h3>
+ ### 3. Brand guide
 
 ![Brand Guide 1](brand-guide1.png)
 ![Brand Guide 2](brand-guide2.png)
