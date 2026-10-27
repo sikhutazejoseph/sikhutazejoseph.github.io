@@ -138,4 +138,80 @@ I successfully published my portfolio online at [https://sikhutazejoseph.github.
 
 ---
 
+
+
+<br>
+<hr>
+<br>
+
+# 🚀 WIL Agile Project Portfolio (PRP371S)
+
+**Project Name:** Ekhaya Connect - Affordable WISP
+**Module:** PRP371S - Entrepreneurial WIL Project
+
+## 🌐 Project Overview
+**The Problem:** Khayelitsha faces a severe digital divide due to major telecom companies under-investing in the area. Residents and small business owners struggle daily with a lack of affordable, reliable home internet.
+**Our Solution:** *Ekhaya Connect* is a Wireless Internet Service Provider (WISP) offering uncapped 10 Mbps fixed wireless internet for approximately R399/month. By leveraging a shared high-speed fibre link and local wireless dishes, we provide affordable access without needing massive infrastructure rollouts.
+
+## 👥 The Agile Team
+*   **Sikhutaze Joseph**
+*   Bongiwe Ntwasa
+*   Elam Mthwane
+*   Phumelela Nzewu
+*   Lilitha Nodolo
+
+---
+
+## 📂 Agile Artefacts & Reflections
+
+### 1. Agile Team Charter
+**Evidence:** We defined our shared vision, scope, and working agreements (like daily standups via Trello) to prevent friction. We also validated our idea by interviewing 17 households (82% were willing to pay).
+**Reflection:** Creating the charter taught me that a project isn't just about the final product; it's about setting boundaries. **My role** involved primary research and helping draft our working agreements. I learned that interviewing real people grounds the project in reality and proves the community actually needs our solution.
+
+### 2. User Stories & Tasks
+**Evidence:** We broke down our WISP features into user-centric stories (e.g., "As a resident, I want reliable internet...") and split them into actionable tasks on our Trello board.
+**Reflection:** Writing user stories forced me to shift my mindset from "what software do we build" to "what does the customer need." **My role** was translating our research into tasks on Trello. It taught me that breaking big goals into small, clear tasks makes the massive goal of building a WISP feel achievable.
+
+### 3. Product & Sprint Backlogs
+**Evidence:** We prioritized tasks (High: Fibre Setup; Low: Website Dev) and executed them across 4 Sprints using a Kanban board. (See Trello screenshot below).
+**Reflection:** This was a lesson in scope management. **My role** required me to move my assigned tasks across the board and add detailed checklists. I learned that it's better to fully complete a few tasks than to start everything and finish nothing. Agile is about adapting to change, not just following a rigid list.
+
+### 4. Agile Logbook & Daily Standups
+**Evidence:** We tracked our daily standups and bottlenecks (like Trello unfamiliarity) from July 21st to July 24th. *(Word documents with full logs are available in the GitHub repository).*
+**Reflection:** The logbook was the most eye-opening part. **My role** involved updating the log and helping teammates overcome their Trello struggles. Reflecting daily taught me that communication is the most critical part of Agile. By honestly tracking our blockers, we solved them as a team and delivered a confident presentation.
+
+---
+
+## 🎨 Project Deliverables
+
+### 1. The Live Website
+*   **Live Link:** [Ekhaya Connect Live Website](https://sikhutazejoseph.github.io/khayelitsha---connect/)
+*   **Reflection:** Building the live website shifted our project from a business plan into a tangible reality. I learned how to translate user stories into a real digital experience. It taught me that launching a Minimum Viable Product (MVP) is better than waiting for perfection.
+
+### 2. UI/UX Wireframes
+*   **Link:** [Ekhaya Connect Figma Wireframes](https://www.figma.com/design/hKfPAd7rTmUvl1RQEnLLLL/Untitled?node-id=0-1&t=KhAGD32s9aIEVIcd-1)
+*   **Reflection:** Creating wireframes taught me the importance of empathy in design. We realized many residents use mobile phones, so we ensured our wireframes were mobile-first. This caught design flaws before we coded.
+
+### 3. Business Model Canvas
+*   **Link:** [Ekhaya Connect Business Model Canvas](https://canva.link/vi2pxlhuby6cnld)
+*   **Reflection:** This forced me to confront the financial realities of our WISP idea. Mapping our costs against revenue made me understand the importance of scale and customer retention.
+
+### 4. Solution Architecture
+![Ekhaya Connect Solution Architecture](https://raw.githubusercontent.com/sikhutazejoseph/eKhaya-connect/main/solution-architecture.jpeg)
+*   **Reflection:** Designing the architecture proved the technical feasibility of our idea. I learned how a WISP functions—from the payment gateway to RADIUS provisioning and NOC monitoring. It showed me that a successful WISP requires highly coordinated software orchestration.
+
+### 5. Brand Guide
+*   **Link:** [📥 Click here to download/view the Ekhaya Connect Brand Guide](https://raw.githubusercontent.com/sikhutazejoseph/eKhaya-connect/refs/heads/main/eKhaya_Connect_Brand_Guide.pptx)
+*   **Reflection:** The brand guide taught me that a business is more than its product; it's an identity. We chose colors and fonts that resonate with Khayelitsha—aiming for a look that feels modern and trustworthy.
+
+---
+
+## 📸 Visual Evidence
+
+### Trello Board (Product Backlog & Sprints)
+![Trello Board](https://raw.githubusercontent.com/sikhutazejoseph/eKhaya-connect/main/Trello.png)
+
+### Agile Logbook (Daily Standups)
+*(Full Word documents are uploaded to the eKhaya-connect repository)*
+![Logbook Part 1](https://raw.githubusercontent.com/sikhutazejoseph/eKhaya-connect/main/agile-logbook-1.png)
  
