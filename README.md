@@ -184,16 +184,21 @@ I successfully published my portfolio online at [https://sikhutazejoseph.github.
 
 ## 🎨 Project Deliverables
 
+ ## 🎨 Project Deliverables
+
 ### 1. The Live Website
-*   **Live Link:** [Ekhaya Connect Live Website](https://sikhutazejoseph.github.io/khayelitsha---connect/)
+![Website Homepage](Website3.png)
+![Website Coverage](Website1.png)
+![Website Pricing](websites2.png)
+
 *   **Reflection:** Building the live website shifted our project from a business plan into a tangible reality. I learned how to translate user stories into a real digital experience. It taught me that launching a Minimum Viable Product (MVP) is better than waiting for perfection.
 
 ### 2. UI/UX Wireframes
-*   **Link:** [Ekhaya Connect Figma Wireframes](https://www.figma.com/design/hKfPAd7rTmUvl1RQEnLLLL/Untitled?node-id=0-1&t=KhAGD32s9aIEVIcd-1)
+![Wireframes Screenshot](wireframes.png)
 *   **Reflection:** Creating wireframes taught me the importance of empathy in design. We realized many residents use mobile phones, so we ensured our wireframes were mobile-first. This caught design flaws before we coded.
 
 ### 3. Business Model Canvas
-*   **Link:** [Ekhaya Connect Business Model Canvas](https://canva.link/vi2pxlhuby6cnld)
+![Business Model Canvas Screenshot](Business%20canva%20mode.png)
 *   **Reflection:** This forced me to confront the financial realities of our WISP idea. Mapping our costs against revenue made me understand the importance of scale and customer retention.
 
 ### 4. Solution Architecture
